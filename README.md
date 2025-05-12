@@ -14,7 +14,7 @@ for voice cloning on bark i used:
 ## ⚠️ Disclaimer
 
 > This project was created using only a **MacBook Air with an M2 chip, without the use of any external GPUs**.
-> All TTS models were run with their** default >settings**, so there is **still room for optimization and improvement**.
+> All TTS models were run with their **default settings**, so there is **still room for optimization and improvement**.
 > For voice cloning on bark, i used seed-vc with its **default** parameters.
 
 ## 🔈 Reference Voice For Cloning
@@ -28,21 +28,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_1.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_1.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_1.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_1.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_1.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_1.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -53,21 +53,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_2.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_2.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_2.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_2.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_2.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_2.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -78,21 +78,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_3.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_3.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_3.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_3.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_3.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_3.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -103,21 +103,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_4.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_4.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_4.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_4.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_4.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_4.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -128,21 +128,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_5.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_5.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_5.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_5.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_5.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_5.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -153,21 +153,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_6.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_6.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_6.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_6.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_6.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_6.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -178,21 +178,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_7.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_7.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_7.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_7.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_7.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_7.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -203,21 +203,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_8.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_8.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_8.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_8.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_8.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_8.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -228,21 +228,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_9.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_9.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_9.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_9.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_9.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_9.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -253,21 +253,21 @@ for voice cloning on bark i used:
 #### XTTS🐸
 
 <audio controls>
-  <source src="xtts_outputs/xtts_out_10.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_10.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶
 
 <audio controls>
-  <source src="bark_outputs/bark_out_10.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_10.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 #### Bark🐶 with seed-vc cloning
 
 <audio controls>
-  <source src="bark_with_seedvc_outputs/bark_with_seedvc_10.wav" type="audio/wav">
+  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_10.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
