@@ -1,0 +1,6 @@
+.venv
+.vscode
+checkpoints
+__pycache__
+bark/__pycache__
+xtts/__pycache__
