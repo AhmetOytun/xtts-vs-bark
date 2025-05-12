@@ -25,251 +25,161 @@ for voice cloning on bark i used:
 
 ### Prompt 1: _"Jump."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_1.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_1.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_1.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_1.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_1.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_1.wav)
 
 ---
 
 ### Prompt 2: _"Its snowing."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_2.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_2.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_2.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_2.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_2.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_2.wav)
 
 ---
 
 ### Prompt 3: _"She is singing beautifully."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_3.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_3.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_3.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_3.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_3.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_3.wav)
 
 ---
 
 ### Prompt 4: _"They built a tree house last summer."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_4.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_4.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_4.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_4.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_4.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_4.wav)
 
 ---
 
 ### Prompt 5: _"My brother studies engineering at a university abroad."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_5.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_5.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_5.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_5.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_5.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_5.wav)
 
 ---
 
 ### Prompt 6: _"We went hiking early in the morning and returned before sunset."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_6.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_6.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_6.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_6.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_6.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_6.wav)
 
 ---
 
 ### Prompt 7: _"He apologized quickly after realizing his mistake during the meeting."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_7.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_7.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_7.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_7.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_7.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_7.wav)
 
 ---
 
 ### Prompt 8: _"Although it was expensive, she bought the camera because it had excellent reviews."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_8.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_8.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_8.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_8.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_8.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_8.wav)
 
 ---
 
 ### Prompt 9: _"Before making a final decision, he carefully considered everyone's opinions and read through all the available research."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_9.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_9.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_9.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_9.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_9.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_9.wav)
 
 ---
 
 ### Prompt 10: _"She gathered all the necessary documents, submitted her application online, and waited patiently for the results to be officially announced."_
 
-#### XTTS🐸
+### XTTS 🐸
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_10.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to XTTS Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/xtts_outputs/xtts_out_10.wav)
 
-#### Bark🐶
+### Bark 🐶
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_10.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_outputs/bark_out_10.wav)
 
-#### Bark🐶 with seed-vc cloning
+### Bark 🐶 with seed-vc cloning
 
-<audio controls>
-  <source src="https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_10.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[🔊 Listen to Bark with Seed-VC Output](https://github.com/AhmetOytun/xtts-vs-bark/raw/refs/heads/main/bark_with_seedvc_outputs/bark_with_seedvc_10.wav)
 
 ---
 
